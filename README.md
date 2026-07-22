@@ -48,10 +48,10 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=2DD4BF&text_color=C9D1D9" alt="stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&stroke=30363D&ring=8B5CF6&fire=2DD4BF&currentStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currentStreakNum=C9D1D9&sideNums=C9D1D9&dayLabels=8B949E" alt="streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=littt565674&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=2DD4BF&text_color=C9D1D9" alt="stats" />
+<img height="180" src="https://streak-stats.demolab.com?user=littt565674&hide_border=true&background=0D1117&stroke=30363D&ring=8B5CF6&fire=2DD4BF&currentStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currentStreakNum=C9D1D9&sideNums=C9D1D9&dayLabels=8B949E" alt="streak" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littt565674&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="top languages" />
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=2DD4BF&line=8B5CF6&point=ffffff&area=true&area_color=8B5CF6&hide_border=true" width="100%" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=littt565674&bg_color=0D1117&color=2DD4BF&line=8B5CF6&point=ffffff&area=true&area_color=8B5CF6&hide_border=true" width="100%" alt="activity graph" />
 
 </div>
 
@@ -80,8 +80,8 @@
 <div align="center">
 
 <!-- 🔗 swap these two for your real links, or delete -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL@EXAMPLE.COM"><img src="https://img.shields.io/badge/Email-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/euan-brown-eb08"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rewindmod@gmail.com"><img src="https://img.shields.io/badge/Email-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+views&color=8B5CF6&style=for-the-badge" alt="views" />
 
 </div>
