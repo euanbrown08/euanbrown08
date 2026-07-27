@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:2DD4BF&height=200&section=header&text=Euan%20Brown&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20Applied%20Finance%20%C2%B7%20Building&descSize=18&descAlignY=56" width="100%" />
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/euanbrown08">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=620&lines=I+build+things.;AI+evaluation+%C3%97+applied+finance;From+trading+desks+to+training+data;Quant-curious.+Ships+fast." alt="Typing SVG" />
 </a>
 
@@ -68,9 +68,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/euanbrown08/euanbrown08/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/euanbrown08/euanbrown08/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/euanbrown08/euanbrown08/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
@@ -82,7 +82,7 @@
 <!-- 🔗 swap these two for your real links, or delete -->
 <a href="https://www.linkedin.com/in/euan-brown-eb08"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:rewindmod@gmail.com"><img src="https://img.shields.io/badge/Email-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+views&color=8B5CF6&style=for-the-badge" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=euanbrown08&label=Profile+views&color=8B5CF6&style=for-the-badge" alt="views" />
 
 </div>
 
