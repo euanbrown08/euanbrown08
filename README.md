@@ -48,10 +48,10 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=littt565674&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=2DD4BF&text_color=C9D1D9" alt="stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=littt565674&hide_border=true&background=0D1117&stroke=30363D&ring=8B5CF6&fire=2DD4BF&currentStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currentStreakNum=C9D1D9&sideNums=C9D1D9&dayLabels=8B949E" alt="streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=euanbrown08&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=2DD4BF&text_color=C9D1D9" alt="stats" />
+<img height="180" src="https://streak-stats.demolab.com?user=euanbrown08&hide_border=true&background=0D1117&stroke=30363D&ring=8B5CF6&fire=2DD4BF&currentStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currentStreakNum=C9D1D9&sideNums=C9D1D9&dayLabels=8B949E" alt="streak" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littt565674&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euanbrown08&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="top languages" />
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=littt565674&bg_color=0D1117&color=2DD4BF&line=8B5CF6&point=ffffff&area=true&area_color=8B5CF6&hide_border=true" width="100%" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=euanbrown08&bg_color=0D1117&color=2DD4BF&line=8B5CF6&point=ffffff&area=true&area_color=8B5CF6&hide_border=true" width="100%" alt="activity graph" />
 
 </div>
 
